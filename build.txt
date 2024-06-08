@@ -1,0 +1,3 @@
+displayName = Display Internal Names
+author = moker49
+version = 0.1
