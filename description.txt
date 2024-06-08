@@ -1,1 +1,2 @@
-Modify this file with a description of your mod.
+Displays internal item names on the items tooltip (open inventory then hover item).
+Useful when developing mods that interact with another mod's items.
